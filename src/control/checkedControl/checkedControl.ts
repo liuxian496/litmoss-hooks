@@ -103,7 +103,7 @@ function useCheckedGroup<T = Element>(
 ) {
     const { name, controlType, value } = props;
 
-    const uuid = useId() + "-litten";
+    const uuid = useId() + "-litmoss";
 
     useEffect(() => {
         addCheckedGroup({ name, value, uuid, controlType }, setChecked);
