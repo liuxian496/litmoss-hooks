@@ -1,17 +1,17 @@
-# litten-hooks
+# litmoss-hooks
 
-![GitHub](https://img.shields.io/github/license/liuxian496/litten-hooks)
-![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/liuxian496/litten-hooks/test.yml)
-[![Coverage Status](https://coveralls.io/repos/github/liuxian496/litten-hooks/badge.svg?branch=main)](https://coveralls.io/github/liuxian496/litten?branch=main)
-![GitHub Repo stars](https://img.shields.io/github/stars/liuxian496/litten-hooks)
+![GitHub](https://img.shields.io/github/license/liuxian496/litmoss-hooks)
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/liuxian496/litmoss-hooks/test.yml)
+[![Coverage Status](https://coveralls.io/repos/github/liuxian496/litmoss-hooks/badge.svg?branch=main)](https://coveralls.io/github/liuxian496/litmoss-hooks?branch=main)
+![GitHub Repo stars](https://img.shields.io/github/stars/liuxian496/litmoss-hooks)
 
-<p>litten-hooks是一个基于react的工具库，提供开发「控件库」时需要的hooks</p>
+<p>litmoss-hooks是一个基于react的工具库，提供开发「控件库」时需要的hooks</p>
 
 <p>
 主页
 </p>
 
-[https://liuxian496.github.io/litten-hooks/](https://liuxian496.github.io/litten-hooks/)
+[https://liuxian496.github.io/litmoss-hooks/](https://liuxian496.github.io/litmoss-hooks/)
 
 ## 依赖
 
