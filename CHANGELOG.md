@@ -1,4 +1,6 @@
 
+## [3.0.1](https://github.com/liuxian496/litmoss-hooks/compare/v3.0.0...v3.0.1) (2026-10-09)
+
 # [3.0.0](https://github.com/liuxian496/litmoss-hooks/compare/v1.7.0...v3.0.0) (2026-10-09)
 
 
